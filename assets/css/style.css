@@ -641,6 +641,7 @@ p {
 .speakers-bage .bage {
     width: 199px;
     height: 45px;
+    z-index: 100;
 }
 
 .speakers-bage .bage a {
